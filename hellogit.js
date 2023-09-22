@@ -6,3 +6,6 @@ const frutas = ['Manzana', 'Pera', 'Fresa'];
 frutas.forEach(item => {
     console.log(item);
 })
+
+const usuario = 'Jack';
+const email = 'Jack@gmail.com';
