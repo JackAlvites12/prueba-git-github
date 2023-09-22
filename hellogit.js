@@ -7,6 +7,10 @@ frutas.forEach(item => {
     console.log(item);
 })
 
+for(const fruta of frutas){
+    console.log(fruta);
+}
+
 
 //Este es usuario no tocar, en fase de modificacion
 const usuario = 'Jack Alvites';
