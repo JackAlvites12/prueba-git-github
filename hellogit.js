@@ -7,5 +7,6 @@ frutas.forEach(item => {
     console.log(item);
 })
 
-const usuario = 'Jack';
-const email = 'Jack@gmail.com';
+//Esto es del login
+const usuario = 'Jackasd';
+const email = 'Jack@gmail.comasdas';
